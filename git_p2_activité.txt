@@ -1,5 +1,5 @@
 Gérer son code avec Git et GitHub
 Activité Partie 2 : Partager un repository sur GitHub
 
-L'URL de mon repository :
+L'URL de mon repository : https://github.com/mikew75/openclassroom.git
 (exemple : https://github.com/marcgg/Simple-Placeholder)
